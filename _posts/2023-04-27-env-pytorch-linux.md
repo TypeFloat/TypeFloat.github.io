@@ -10,11 +10,10 @@ pageview: true
 # mermaid: true
 # chart: true
 layout: article
-article:
-    sharing: true
-    show_subscribe: true
-    show_author_profile: true
-    license: false
+sharing: true
+show_subscribe: true
+show_author_profile: true
+license: false
 ---
 
 本文介绍了如何在liunx系统中配置PyTorch-gpu的开发环境。<!--more-->
