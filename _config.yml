@@ -108,7 +108,7 @@ sources: # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: false # false (default), "addtoany", "addthis", "custom"
+  provider: addtoany # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
@@ -118,7 +118,12 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: leancloud # false (default), "disqus", "gitalk", "valine", "custom"
+
+  leancloud:
+    app_id    : "BLBuzjMmuHUcyysV9RkQvnRl-gzGzoHsz"
+    app_key   : "tPNV7XmX2zSyg5WpN9hwWIf0"
+    app_class : "Comments"
 
   ## Disqus
   disqus:
@@ -147,7 +152,7 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: "leancloud" # false (default), "leancloud", "custom"
+  provider: leancloud # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
