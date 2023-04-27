@@ -118,12 +118,11 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: leancloud # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: valine # false (default), "disqus", "gitalk", "valine", "custom"
 
   leancloud:
     app_id    : "BLBuzjMmuHUcyysV9RkQvnRl-gzGzoHsz"
     app_key   : "tPNV7XmX2zSyg5WpN9hwWIf0"
-    app_class : "Comments"
 
   ## Disqus
   disqus:
