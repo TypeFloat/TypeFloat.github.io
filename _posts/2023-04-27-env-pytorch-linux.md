@@ -1,5 +1,5 @@
 ---
-title: Linux如何配置PyTorch-GPU环境
+title: Linux如何配置PyTorch-gpu环境
 tags: ["开发环境配置", "PyTorch", "Linux"]
 key: env-linux-pytorch
 lang: zh-Hans
@@ -9,7 +9,15 @@ pageview: true
 # mathjax_autoNumber: false
 # mermaid: true
 # chart: true
+layout: article
+article:
+    sharing: true
+    show_subscribe: true
+    show_author_profile: true
+    license: false
 ---
+
+本文介绍了如何在liunx系统中配置PyTorch-gpu的开发环境。<!--more-->
 
 ## 1. 安装CUDA
 
