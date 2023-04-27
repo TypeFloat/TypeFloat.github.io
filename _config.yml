@@ -120,10 +120,6 @@ sharing:
 comments:
   provider: valine # false (default), "disqus", "gitalk", "valine", "custom"
 
-  leancloud:
-    app_id    : "BLBuzjMmuHUcyysV9RkQvnRl-gzGzoHsz"
-    app_key   : "tPNV7XmX2zSyg5WpN9hwWIf0"
-
   ## Disqus
   disqus:
     shortname: # the Disqus shortname for the site
@@ -141,8 +137,8 @@ comments:
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
-    app_id      : # LeanCloud App id
-    app_key     : # LeanCloud App key
+    app_id      : "BLBuzjMmuHUcyysV9RkQvnRl-gzGzoHsz"# LeanCloud App id
+    app_key     : "tPNV7XmX2zSyg5WpN9hwWIf0"# LeanCloud App key
     placeholder : # Prompt information
     visitor     : # false (default)
     meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
