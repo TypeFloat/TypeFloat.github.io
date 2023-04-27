@@ -5,11 +5,10 @@ key: env-linux-pytorch
 lang: zh-Hans
 # comment: true
 pageview: true
+comment: true
 layout: article
 sharing: true
-show_subscribe: false
 show_author_profile: true
-license: false
 ---
 
 本文介绍了如何在liunx系统中配置PyTorch-gpu的开发环境。<!--more-->
