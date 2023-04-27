@@ -6,7 +6,7 @@ key: env-linux-pytorch
 
 本文介绍了如何在liunx系统中配置PyTorch-gpu的开发环境。<!--more-->
 
-## 1. 安装CUDA
+# 1. 安装CUDA
 
 1. 检测NVDIA图形卡和推荐的驱动程序。
 
@@ -46,7 +46,7 @@ sudo ldconfig
 nvcc -V
 ```
 
-## 2. 安装cuDNN
+# 2. 安装cuDNN
 
 1. 在[NVIDIA官网](https://developer.nvidia.com/rdp/cudnn-download)安装cuDNN安装包，选择与系统版本、CUDA版本对应的deb安装包。
 2. 安装cuDNN
@@ -54,7 +54,7 @@ nvcc -V
 sudo dpkg -i xxx.deb
 ```
 
-## 3. 安装Pytorch
+# 3. 安装Pytorch
 
 1. 创建虚拟环境
 ```shell
