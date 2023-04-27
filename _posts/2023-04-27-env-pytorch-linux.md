@@ -1,6 +1,6 @@
 ---
 title: Linux如何配置PyTorch-gpu环境
-tags: ["开发环境配置", "PyTorch", "Linux"]
+tags: "开发环境配置"
 key: env-linux-pytorch
 ---
 
