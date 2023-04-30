@@ -50,9 +50,11 @@ header:
     url: /about.html
 
 apue:
-  - titles:  UNIX基础
-    url:    /2023/04/30/apue-1
-  - titles:  文件IO
-    url:    /2023/04/30/apue-2
-  - titles:  标准IO
-    url:    /2023/04/30/apue-3
+  - title:  APUE学习
+    children:
+      - title: VOL.1 UNIX基础知识
+        url: /posts/2023-04-30-apue-1
+      - title: VOL.2 文件IO
+        url: /posts/2023-04-30-apue-2
+      - title: VOL.3 标准IO
+        url: /posts/2023-04-30-apue-3
