@@ -52,9 +52,9 @@ header:
 apue:
   - title:  APUE学习
     children:
-      - title: VOL.1 UNIX基础知识
-        url: /posts/2023-04-30-apue-1
+      - title: VOL.1 UNIX基础
+        url: /2023/04/30/apue-1.html
       - title: VOL.2 文件IO
-        url: /posts/2023-04-30-apue-2
+        url: /2023/04/30/apue-2.html
       - title: VOL.3 标准IO
-        url: /posts/2023-04-30-apue-3
+        url: /2023/04/30/apue-3.html
