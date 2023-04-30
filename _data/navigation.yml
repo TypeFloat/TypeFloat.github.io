@@ -48,3 +48,11 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+APUE:
+  - title:  UNIX基础
+    url:    /2023/04/30/apue-1
+  - title:  文件IO
+    url:    /2023/04/30/apue-2
+  - title:  标准IO
+    url:    /2023/04/30/apue-3
