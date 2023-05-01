@@ -1,7 +1,7 @@
 ---
 title: ChatGPT提示工程
-tags: "gpt-prompt"
-key: ChatGPT
+tags: ChatGPT
+key: gpt-prompt
 ---
 
 这一篇笔记是参考了有吴恩达教授和OpenAI合作出品的提示工程教学，[视频戳这儿](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)可以观看，我把关键内容进行了整理，方便回顾和查阅。<!--more-->
