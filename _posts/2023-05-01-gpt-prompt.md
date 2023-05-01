@@ -11,17 +11,20 @@ key: gpt-prompt
 openai开发了便于使用ChatGPT的API接口工具包，直接使用`pip install openai`即可。
 
 ```python
-import openai import os
-from doten import load_doten, find_ dotenv
-= load doten(find doten()) # read local .env file
-openai.api_key = os •getenv ( 'OPENAI_API_KEY')
+import openai
+import os
+
+from dotenv import load_dotenv, find_dotenv
+_ = load_dotenv(find_dotenv())
+
+openai.api_key  = os.getenv('OPENAI_API_KEY')
 
 def get_completion(prompt, model="gpt-3.5-turbo"):
-    messages = [{"role":"user", "content": prompt}]
+    messages = [{"role": "user", "content": prompt}]
     response = openai.ChatCompletion.create(
-    	model=model,
+        model=model,
         messages=messages,
-    	temperature=0,
+        temperature=0,
     )
     return response.choices[0].message["content"]
 ```
