@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://blog.typefloat.cn/</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/archive.html</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/about.html</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/archive.html?tag=%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/archive.html?tag=C%2B%2B</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/archive.html?tag=ChatGPT</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/archive.html?tag=APUE</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/2023/05/02/cpp-1.html</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/2023/05/01/gpt-prompt.html</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/2023/04/30/apue-3.html</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/2023/04/30/apue-2.html</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/2023/04/30/apue-1.html</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/2023/04/27/env-pytorch-linux.html</loc>
+</url>
+<url>
+  <loc>https://blog.typefloat.cn/2023/04/27/env-conda-linux.html</loc>
+</url>
+</urlset>
