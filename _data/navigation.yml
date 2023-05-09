@@ -63,6 +63,6 @@ c++:
   - title:  C++学习
     children:
       - title: VOL.1 C++程序是如何工作的
-        url: /2023/05/02/c++-1.html
+        url: /2023/05/02/cpp-1.html
       - title: VOL.2 变量与函数
-        url: /2023/05/09/c++-2.html
+        url: /2023/05/09/cpp-2.html
