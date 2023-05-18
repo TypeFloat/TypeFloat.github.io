@@ -70,5 +70,5 @@ c++:
         url: /2023/05/11/cpp-3.html
       - title: VOL.4 static关键字
         url: /2023/05/11/cpp-4.html
-      # - title: VOL.5 面向对象编程——类
-      #   url: /2023/05/11/cpp-5.html
+      - title: VOL.5 面向对象编程——类
+        url: /2023/05/18/cpp-5.html
