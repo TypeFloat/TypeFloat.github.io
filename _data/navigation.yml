@@ -62,6 +62,8 @@ apue:
         url: /2023/06/05/apue-4.html
       - title: VOL.5 进程环境
         url: /2023/06/05/apue-5.html
+      - title: VOL.6 进程控制
+        url: /2023/06/06/apue-6.html
 
 c++:
   - title:  C++学习
