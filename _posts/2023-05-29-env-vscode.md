@@ -1,7 +1,7 @@
 ---
 title: 如何使用VS Code
 tags: "开发环境配置"
-key: VSCode
+key: env-VSCode
 ---
 
 本文介绍了代码编辑器VS Code的使用方法，以及如何通过安装插件的方式，使其具备与集成开发环境相同的功能。<!--more-->

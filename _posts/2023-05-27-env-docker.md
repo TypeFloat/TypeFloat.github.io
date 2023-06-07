@@ -1,7 +1,7 @@
 ---
 title: 如何使用docker部署环境
 tags: "开发环境配置"
-key: docker
+key: env-docker
 ---
 
 本文介绍了如何使用docker快速部署开发环境。<!--more-->
