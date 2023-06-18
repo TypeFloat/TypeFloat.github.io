@@ -65,7 +65,9 @@ apue:
       - title: VOL.6 进程控制
         url: /2023/06/06/apue-6.html
       - title: VOL.7 信号
-        url: /2023/06/07/apue-6.html
+        url: /2023/06/07/apue-7.html
+      - title: VOL.8 线程
+        url: /2023/06/18/apue-8.html
 
 c++:
   - title:  C++学习
