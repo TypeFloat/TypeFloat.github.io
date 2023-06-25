@@ -50,7 +50,7 @@ header:
     url: /about.html
 
 apue:
-  - title:  APUE学习
+  - title:  APUE
     children:
       - title: VOL.1 UNIX基础
         url: /2023/04/30/apue-1.html
@@ -70,7 +70,7 @@ apue:
         url: /2023/06/18/apue-8.html
 
 c++:
-  - title:  C++学习
+  - title:  C++
     children:
       - title: VOL.1 C++程序是如何工作的
         url: /2023/05/02/cpp-1.html
@@ -84,7 +84,7 @@ c++:
         url: /2023/05/18/cpp-5.html
 
 os:
-  - title:  操作系统学习
+  - title:  操作系统
     children:
       - title: VOL.1 概论
         url: /2023/06/25/os-1.html
