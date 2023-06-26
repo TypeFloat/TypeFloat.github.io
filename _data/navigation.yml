@@ -68,6 +68,8 @@ apue:
         url: /2023/06/07/apue-7.html
       - title: VOL.8 线程
         url: /2023/06/18/apue-8.html
+      - title: VOL.9 线程
+        url: /2023/06/26/apue-9.html
 
 c++:
   - title:  C++
