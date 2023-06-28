@@ -70,6 +70,8 @@ apue:
         url: /2023/06/18/apue-8.html
       - title: VOL.9 线程
         url: /2023/06/26/apue-9.html
+      - title: VOL.10 进程间通信
+        url: /2023/06/28/apue-10.html
 
 c++:
   - title:  C++
