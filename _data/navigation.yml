@@ -92,3 +92,5 @@ os:
     children:
       - title: VOL.1 概论
         url: /2023/06/25/os-1.html
+      - title: VOL.2 操作系统结构
+        url: /2023/07/06/os-2.html
