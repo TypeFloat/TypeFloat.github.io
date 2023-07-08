@@ -94,3 +94,9 @@ os:
         url: /2023/06/25/os-1.html
       - title: VOL.2 操作系统结构
         url: /2023/07/06/os-2.html
+
+cn:
+  - title:  计算机网络
+    children:
+      - title: VOL.1 概论
+        url: /2023/07/08/cn-1.html
