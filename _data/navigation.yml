@@ -108,5 +108,7 @@ cn:
         url: /2023/07/21/cn-3.html
       - title: VOL.4 网络层
         url: /2023/07/29/cn-4.html
-      - title: VOL.3 数据链路层
+      - title: VOL.5 数据链路层
         url: /2023/07/31/cn-5.html
+      - title: VOL.6 套接字编程
+        url: /2023/08/03/cn-6.html
