@@ -88,6 +88,8 @@ c++:
         url: /2023/05/18/cpp-5.html
       - title: VOL.6 const关键字
         url: /2023/08/05/cpp-6.html
+      - title: VOL.7 数组与字符串
+        url: /2023/08/06/cpp-7.html
 
 os:
   - title:  操作系统
