@@ -100,6 +100,8 @@ os:
         url: /2023/07/06/os-2.html
       - title: VOL.3 进程
         url: /2023/07/16/os-3.html
+      - title: VOL.4 线程
+        url: /2023/08/18/os-4.html
 
 cn:
   - title:  计算机网络
